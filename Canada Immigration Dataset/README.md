@@ -9,3 +9,6 @@ It is divided into 2 parts depending on the use of Visualization Tools :
 
 - Using Basic Visualisation Tools - Line Plots, Area Plots, Histograms, Bar Charts, Pie Charts, Box Plots, Sub Plots and Scatter Plots
 - Using Advanced Visualistion Tools -Word Clouds and Regression Plots using Seaborn
+
+## Final Thoughts
+ <img src='visuals/visuals/Earthquake.JPG' >
