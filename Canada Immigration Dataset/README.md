@@ -3,7 +3,7 @@
 
 
 
-### This project focuses on the visualization of the Immigration Dataset of Canada from the period 1980 to 2013 & helps to interpret and arrive at various meaningful conclusions      through different visualizations.
+### This project focuses on the visualization of the Immigration Dataset of Canada from the period 1980 to 2013 in order to analyze, interpret and extract meaningful insights through different visualizations.
 
 It is divided into 2 parts depending on the use of Visualization Tools :
 
